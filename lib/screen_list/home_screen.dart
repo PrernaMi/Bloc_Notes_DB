@@ -8,7 +8,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../models/list_model.dart';
 
 class HomeScreen extends StatelessWidget{
-  List<ListModel> mList = [];
 
   @override
   Widget build(BuildContext context) {
